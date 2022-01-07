@@ -8,4 +8,5 @@
 ### `express.js`, `node.js` , `axios` , `DOM manipulation` & `basic html,css and javascript`
 
 ##  intial and only process
+### start the `server.js` using nodemon and then
 ### run the project at `localhost:3000/`
