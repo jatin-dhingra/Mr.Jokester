@@ -9,7 +9,7 @@ app.use(express.static(__dirname));
 app.use(bodyParser.urlencoded({ extended: true }))
 
 app.get("/", (req, res) => {
-  res.sendFile(__dirname + "/proindex.html");
+  res.sendFile(__dirname + "/index.html");
 });
 
 app.listen(3000,()=>{
